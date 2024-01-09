@@ -5,11 +5,9 @@ QWellCOD/QWellCOD is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Hi I'm a german based informatics student</h1>
-
 <h2> Informations <br> </h2>
-<!--🌍 I'm based in Germany<br> 
-✉️ You can contact me at contact@lukasbuck.com <br> -->
+🌍 I'm based in Germany<br>  
+🎓 currently studying informatics <br>
 🧠 I'm learning e.g. PHP, SQL and JS right now<br>
 🤝 I'm open to collaborating on innovative projects<br>
 <br>
