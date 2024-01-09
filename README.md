@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
      height="50" ><a>
 <a href="https://www.java.com/"><img alt="Java-Logo" src="http://pluspng.com/img-png/java-png-java-icon-1600.png" width="50" height="50" ><a>
 <a href="https://www.oracle.com/de/database/technologies/appdev/sql.html"><img alt="ORacle-SQL-Logo" src="https://vectorified.com/images/oracle-icon-18.png" width="50" height="50" ><a>
+<a href="#" ><img alt="Figma-Logo" src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" width="30" height="50" ><a>
 
 <br>
 <h2>Tools</h2>
@@ -26,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 <a href="#" ><img alt="vsCode-Logo" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width="50" height="50" ><a>
 <a href="#" ><img alt="DataGrip-Logo" src="https://iconape.com/wp-content/png_logo_vector/datagrip-icon.png" width="50" height="50" ><a>
 <a href="#" ><img alt="MySQL-Logo" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" width="50" height="50" ><a>
-<a href="#" ><img alt="Figma-Logo" src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" width="50" height="50" ><a>
 
 
 <!--
