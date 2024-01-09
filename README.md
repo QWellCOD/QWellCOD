@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2>Tools</h2>
 
+<a href="#" ><img alt="vsCode-Logo" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width="50" height="50" ><a>
+<a href="#" ><img alt="DataGrip-Logo" src="https://iconape.com/wp-content/png_logo_vector/datagrip-icon.png" width="50" height="50" ><a>
+<a href="#" ><img alt="vsCode-Logo" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default.png" width="50" height="50" ><a>
 <a href="#" ><img alt="vsCode-Logo" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default.png" width="50" height="50" ><a>
 
 
