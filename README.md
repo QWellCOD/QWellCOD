@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://de.wikipedia.org/wiki/Cascading_Style_Sheets"><img alt="CSS-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="40" 
      height="50" ><a>
 <a href="https://www.java.com/"><img alt="Java-Logo" src="http://pluspng.com/img-png/java-png-java-icon-1600.png" width="50" height="50" ><a>
-<a href="https://www.oracle.com/de/database/technologies/appdev/sql.html"><img alt="ORacle-SQL-Logo" src="https://vectorified.com/images/oracle-icon-18.png" width="60" height="60" ><a>
+<a href="https://www.oracle.com/de/database/technologies/appdev/sql.html"><img alt="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" width="60" height="60" ><a>
 <a href="https://www.figma.com/" ><img alt="Figma-Logo" src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" width="50" height="50" ><a>
 
 <br>
