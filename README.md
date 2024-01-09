@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2>Tools</h2>
 
-<a href="#" ><img alt="vsCode-Logo" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png" width="50" height="50" ><a>
+<a href="#" ><img alt="vsCode-Logo" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default.png" width="50" height="50" ><a>
 
 
 <!--
