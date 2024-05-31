@@ -48,10 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 <div class="logo-container">
    <div class="logo-wrapper">
-       <img src="URL_ZUM_HTML5_LOGO" alt="HTML 5 Logo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML 5 Logo">
    </div>
    <div class="logo-wrapper">
-       <img src="URL_ZUM_CSS_LOGO" alt="CSS Logo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo">
    </div>
    <div class="logo-wrapper">
        <img src="URL_ZUM_JAVASCRIPT_LOGO" alt="JavaScript Logo">
