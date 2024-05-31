@@ -5,12 +5,85 @@ QWellCOD/QWellCOD is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+<style>
+   .logo-container {
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+   }
+   .logo-wrapper {
+       position: relative;
+       width: 100px;
+       height: 100px;
+       margin: 10px;
+   }
+   .logo-wrapper::before {
+       content: '';
+       position: absolute;
+       top: 50%;
+       left: 50%;
+       width: 120px;
+       height: 120px;
+       background-color: white;
+       border-radius: 50%;
+       transform: translate(-50%, -50%);
+       z-index: -1;
+   }
+   .logo-wrapper img {
+       width: 100%;
+       height: 100%;
+       object-fit: contain;
+   }
+</style>
+
 <h2> Informations <br> </h2>
 🌍 I'm based in Germany<br>  
 🎓 currently studying informatics <br>
 🧠 I'm learning e.g. PHP, SQL and JS right now<br>
 🤝 I'm open to collaborating on innovative projects<br>
 <br>
+
+
+
+
+<div class="logo-container">
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_HTML5_LOGO" alt="HTML 5 Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_CSS_LOGO" alt="CSS Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_JAVASCRIPT_LOGO" alt="JavaScript Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_FIGMA_LOGO" alt="Figma Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_NOTION_LOGO" alt="Notion Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_CHATGPT_LOGO" alt="ChatGPT Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_GIMP_LOGO" alt="Gimp Logo">
+   </div>
+   <div class="logo-wrapper">
+       <img src="URL_ZUM_MS365_LOGO" alt="MS365 Logo">
+   </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>Skills</h2>
 
 <a href="https://de.wikipedia.org/wiki/HTML5"><img alt="HTML-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50" 
