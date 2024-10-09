@@ -1,13 +1,6 @@
 # 👋 Hi, I’m @QW_ellCODe
 
-<!---
-QWellCOD/QWellCOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# 💫 About Me:
 🔭 I’m currently working on my Proxmox homelab<br>🌍 I'm based in Germany<br>🎓 I'm currently studying informatics<br>🧠 I'm currently learning Power Apps and Power Automate<br>🤝 I'm open to collaborating on innovative projects<br>
-
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/QW-ellCODe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@QW_ellCODe) 
