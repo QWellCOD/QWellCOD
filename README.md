@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @QW_ellCODe
 
 🔭 currently working on my Proxmox homelab and Homeassistant instance<br>
-🌍 based in Germany<br>🎓 I'm currently studying informatics<br>
-🧠 I'm currently learning Power Apps and Power Automate<br>
+🌍 based in Germany<br>
+🎓 I'm currently studying Information Technology with Business Studies<br>
+🧠 currently learning Power Apps and Power Automate<br>
 🤝 open to collaborating on innovative projects<br>
 
 ## 🌐 Socials:
