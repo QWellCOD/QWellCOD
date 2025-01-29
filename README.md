@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @QW_ellCODe
 
-🔭 currently working on my Proxmox homelab and Homeassistant instance<br>
+🔭 working on my Proxmox and TrueNAS-SCALE homelab<br>
 🌍 based in Germany<br>
-🎓 I'm currently studying Information Technology with Business Studies<br>
+🎓 studying Information Technology with Business Studies<br>
 🧠 currently learning Flutter, C# and Phyton<br>
 🤝 open to collaborating on innovative projects<br>
 
